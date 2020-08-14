@@ -7,6 +7,12 @@ I mostly program in C/C++/Rust but I have also used JS/React Native/Python etc. 
 
 # Projects
 
+## riff
+
+A `Rust` library for parsing the RIFF file format. This fork is a complete overhaul of the original repository with cleaner interface and better performance (imo) because it reads the entire content into memory for parsing instead of walking through the file. Only exposes opaque types so no copying is performed and safety is guaranteed by `Rust`!
+
+Link to the repository: [riff](https://github.com/hbina/riff)
+
 ## chisai
 
 A program similar to `xxd` but can generate output for multiple types of programming languages. Is also multithreaded and about ~3x times faster than `xxd`.
