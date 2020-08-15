@@ -9,7 +9,7 @@ I mostly program in C/C++/Rust but I have also used JS/React Native/Python etc. 
 
 ## riff
 
-A `Rust` library for parsing the RIFF file format. This fork is a complete overhaul of the original repository with cleaner interface and better performance (imo) because it reads the entire content into memory for parsing instead of walking through the file. Only exposes opaque types so no copying is performed and safety is guaranteed by `Rust`!
+A `Rust` library for parsing the RIFF file format. This fork is a complete overhaul of the original repository with cleaner interface and better performance (imo) because it reads the entire content into memory for parsing instead of walking through the file. Only exposes opaque types so no copying is performed and safety is guaranteed by `Rust`! It also provides the original option of lazily reading into the file as necessary.
 
 Link to the repository: [riff](https://github.com/hbina/riff)
 
