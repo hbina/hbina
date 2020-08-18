@@ -7,11 +7,13 @@ I mostly program in C/C++/Rust but I have also used JS/React Native/Python etc. 
 
 # Projects
 
-## riff
+## riffu
 
-A `Rust` library for parsing the RIFF file format. This fork is a complete overhaul of the original repository with cleaner interface and better performance (imo) because it reads the entire content into memory for parsing instead of walking through the file. Only exposes opaque types so no copying is performed and safety is guaranteed by `Rust`! It also provides the original option of lazily reading into the file as necessary.
+A `Rust` library for dealing with `RIFF` file format.
+This fork is a complete overhaul of the original library.
+This fork is designed to have a cleaner interface, complete error propagations and gives users the option to either lazily or eagerly read into the file.
 
-Link to the repository: [riff](https://github.com/hbina/riff)
+Link to the repository: [riffu](https://github.com/hbina/riffu)
 
 ## chisai
 
