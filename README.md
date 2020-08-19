@@ -27,6 +27,12 @@ Generic REPL as a `Rust` library. One can use this library to implement pretty m
 
 Link to the repository: [hyoka](https://github.com/hbina/hyoka)
 
+## smolset
+
+Space efficient set implementation that defaults to stack allocated buffer when the number of elements is small and transform into heap allocated set when required. This is a fork of the original library with better fallback perforamnce (because of the mode) and more features (including their tests and documentations).
+
+Link to the repository: [smolset](https://github.com/hbina/smolset)
+
 ## pixieve-rs
 
 An unofficial fork of (an abandoned) an unofficial library to interface with the `pixiv` image hosting website. I am planning on using this to create a GUI for `pixiv`. It is quite hard to reverse engineer the various `Python` libraries for its API because `pixiv` does not officially document them.
