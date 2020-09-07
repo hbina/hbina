@@ -33,6 +33,13 @@ Space efficient set implementation that defaults to stack allocated buffer when 
 
 Link to the repository: [smolset](https://github.com/hbina/smolset)
 
+## diect-rs
+
+A simple `Redis`-like dictionary containing values that is annotated to expire at some point.
+This is convenient if one desires to have a simple service that can act as a cookie validity verifier.
+
+Link to the repository: [diect-rs](https://github.com/hbina/diect-rs)
+
 ## pixieve-rs
 
 An unofficial fork of (an abandoned) an unofficial library to interface with the `pixiv` image hosting website. I am planning on using this to create a GUI for `pixiv`. It is quite hard to reverse engineer the various `Python` libraries for its API because `pixiv` does not officially document them.
