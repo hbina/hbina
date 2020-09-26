@@ -21,6 +21,12 @@ A program similar to `xxd` but can generate output for multiple types of program
 
 Link to the repository: [chisai](https://github.com/hbina/chisai)
 
+## otto_vec
+
+A Rust library that provides a procedural macro that can automatically vectorize any pure functions.
+
+Link to the repository: [chisai](https://github.com/hbina/otto_vec)
+
 ## hyoka
 
 Generic REPL as a `Rust` library. One can use this library to implement pretty much any REPL one can think of. If you browse the examples folder, I have implemented a simple calculator and `Lisp`-like interpreter using it.
