@@ -25,7 +25,7 @@ Link to the repository: [chisai](https://github.com/hbina/chisai)
 
 A Rust library that provides a procedural macro that can automatically vectorize any pure functions.
 
-Link to the repository: [chisai](https://github.com/hbina/otto_vec)
+Link to the repository: [otto_vec](https://github.com/hbina/otto_vec)
 
 ## hyoka
 
