@@ -7,6 +7,12 @@ I mostly program in C/C++/Rust but I have also used JS/React Native/Python etc. 
 
 # Projects
 
+## ISO 14977 parser
+
+A `Rust` library to parse EBNF that is (hopefully) fully ISO 14977 compliant.
+
+Link to the repository: [riffu](https://github.com/hbina/iso_14977)
+
 ## riffu
 
 A `Rust` library for dealing with `RIFF` file format.
