@@ -2,7 +2,7 @@
 ## Hanif Bin Ariffin
 ## hanif.ariffin.4326@gmail.com
 
-I mostly program in C/C++/Rust but I have also used JS/React Native/Python etc. etc.
+Sometimes I just read random specs and implement them as libraries...
 
 
 # Projects
