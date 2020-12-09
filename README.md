@@ -2,7 +2,7 @@
 ## Hanif Bin Ariffin
 ## hanif.ariffin.4326@gmail.com
 
-Sometimes I just read random specs and implement them as libraries...
+List of projects that I worked on in no specific order.
 
 
 # Projects
