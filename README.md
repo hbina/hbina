@@ -13,7 +13,7 @@ A `Rust` library to parse EBNF that is (hopefully) fully ISO 14977 compliant.
 
 Link to the repository: [iso_14977](https://github.com/hbina/iso_14977)
 
-# Redis Protocol Parser
+## Redis Protocol Parser
 
 A no depedency and fast REdiS Protocol (RESP) parser. The protocol is simple, why make it hard?
 
